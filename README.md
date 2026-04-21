@@ -4,6 +4,7 @@
 Store Schedule Manager is a powerful WooCommerce plugin that allows you to control when your store accepts orders based on a customizable weekly schedule.
 Set opening and closing hours for each day, automatically stop orders before closing time, and prevent customers from placing orders when your store is closed. The plugin works seamlessly across the product page, cart, and checkout — ensuring your store only accepts orders at the right time.
 Perfect for restaurants, delivery services, and businesses with fixed working hours.
+
 -----------------------------------------------------------------------------------
 **✨ Key Features**
 **🗓 Weekly Schedule Control**
