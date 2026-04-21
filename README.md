@@ -1,4 +1,5 @@
 **📦 Store Schedule Manager for WooCommerce**
+
 **📝 Description**
 
 Store Schedule Manager is a powerful WooCommerce plugin that allows you to control when your store accepts orders based on a customizable weekly schedule.
